@@ -1,3 +1,4 @@
+// This is the solution for Leetcode Problem 217. Contains Duplicate
 duplicate = [1,2,3,4,1];
 noDuplicate = [1,2,3,4,5];
 
