@@ -1,4 +1,4 @@
-// This is the solution for Leetcode Problem 238. Product of Array Except Self.
+// Leetcode Problem 238. Product of Array Except Self.
 const test = [-1,1,0,-3,3];
 
 var productExceptSelf = function(nums) {

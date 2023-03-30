@@ -1,4 +1,4 @@
-// This is the solution for Leetcode Problem 49. Group Anagrams.
+// Leetcode Problem 49. Group Anagrams.
 const test = [1,1,2,2,2,3,4,5,5,5,6,7,8,15,15,15,15,15,27,27,27,18,18];
 
 var topKFrequent = function(nums, k) {

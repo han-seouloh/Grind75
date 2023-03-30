@@ -1,4 +1,4 @@
-// This is the solution for Leetcode Problem 1. Two Sum
+// Leetcode Problem 1. Two Sum
 const nums = [2,7,11,15];
 const target = 9;
 

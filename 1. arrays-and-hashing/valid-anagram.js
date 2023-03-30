@@ -1,4 +1,4 @@
-// This is the solution for Leetcode Problem 242. Valid Anagram
+// Leetcode Problem 242. Valid Anagram
 const word1 = 'anagram';
 const word2 = 'nagaram';
 const word3 = 'anagram';

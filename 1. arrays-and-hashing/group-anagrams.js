@@ -1,4 +1,4 @@
-// This is the solution for Leetcode Problem 49. Group Anagrams.
+// Leetcode Problem 49. Group Anagrams.
 const test = ["eat","tea","tan","ate","nat","bat"]
 
 var groupAnagrams = function(strs) {
