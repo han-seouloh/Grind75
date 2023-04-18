@@ -9,6 +9,7 @@
 - [Future Updates](#future-updates)
 
 # Introduction
+This is a repository dedicated towards learning about data structures and algorithms and solutions for the blind 75 problems with explanations.
 <br />
 
 # Codebase
@@ -19,10 +20,20 @@ This codebase consists entirely of Javascript.
 ## Folder Structure
 ```sh
 grind75
-├── 1. arrays-and-hashing              # Reusable components
-│   ├── ...                            # .js files containing solutions
-│   └── ...                            # .js files containing solutions
-└── ...                                # Future folders will be added as I progress
+├── 0.notes                           # DSA notes (Start Here)
+│   ├── algorithms                    # Algorithms notes
+│   └── data-structures               # Data structures notes
+│                                     # From here on starts the Blind 75 Solutions
+│                                     # categorized by Neetcode
+├── 1.arrays-and-hashing              # Blind 75: Arrays and Hashing
+│   └── ...                           # .js files containing solutions and explanations
+├── 2.two-pointers                    # Blind 75: Two Pointers
+│   └── ...                           # .js files containing solutions and explanations
+├── 3.stack                           # Blind 75: Stack
+│   └── ...                           # .js files containing solutions and explanations
+├── ...                               # Future folders and solutions will be added as I progress
+│   └── ...                           # .js files containing solutions and explanations
+└── ReadMe                            # README File
 ```
 <br />
 
@@ -31,6 +42,7 @@ grind75
 <br />
 
 # Acknowledgements
+- Codevolution: DSA Course in Javascript.
 - Blind75
 - Neetcode
 - Grind75
