@@ -43,6 +43,7 @@ grind75
 
 # Acknowledgements
 - Codevolution: DSA Course in Javascript.
+- Codecademy
 - Blind75
 - Neetcode
 - Grind75
