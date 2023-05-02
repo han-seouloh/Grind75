@@ -31,6 +31,10 @@ grind75
 │   └── ...                           # .js files containing solutions and explanations
 ├── 3.stack                           # Blind 75: Stack
 │   └── ...                           # .js files containing solutions and explanations
+├── 4.binary-search                   # Blind 75: Binary Search
+│   └── ...                           # .js files containing solutions and explanations
+├── 5.linked-list                     # Blind 75: Linked List
+│   └── ...                           # .js files containing solutions and explanations
 ├── ...                               # Future folders and solutions will be added as I progress
 │   └── ...                           # .js files containing solutions and explanations
 └── ReadMe                            # README File
